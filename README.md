@@ -22,5 +22,5 @@
 <img align="center" alt="Pedrohs36-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </br>
 <div align="center">
   <a href="https://github.com/Pedrohs36">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thur17&layout=compact&langs_count=7&theme=dark">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohs36&layout=compact&langs_count=7&theme=dark">
 </div>
