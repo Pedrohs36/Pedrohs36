@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://i.postimg.cc/TPBPYf8V/1-L-Qo-AG863l8-Qvqxp-Ny-Biqw.gif" width="75%"/>
+<img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="75%"/>
 
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
